@@ -1,4 +1,2 @@
 hubot:
   build: .
-  environment:
-    HUBOT_SLACK_TOKEN: xoxb-6748392017-cl7FgOQ7wjJHVc7vQnVLQPo3
