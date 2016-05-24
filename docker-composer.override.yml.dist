@@ -1,0 +1,3 @@
+hubot:
+  environment:
+    HUBOT_SLACK_TOKEN: <put yout slack api key here>

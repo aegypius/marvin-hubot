@@ -1,0 +1,8 @@
+FROM hypriot/rpi-node:5
+
+WORKDIR /app
+COPY package.json package.json
+RUN npm install
+
+COPY . .
+CMD ["npm", "start"]
