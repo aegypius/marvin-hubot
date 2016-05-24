@@ -1,3 +1,6 @@
 node_modules
 npm-debug.log
 coverage
+.git
+docker-compose.yml
+docker-comoose.override.yml*
